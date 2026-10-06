@@ -42,7 +42,7 @@
 
 
 
-// Controlflow - hur programmet styrs, i vilken ordning och på vilket sätt olika delar av koden körs
+// Kontrollflöde - hur programmet styrs, i vilken ordning och på vilket sätt olika delar av koden körs
 // Programmet flyttar sug från en instruktion till en annan beroende på villkor och andra strukturer.
 
-// Testa controlflow genom att använda debugger i consolen
+// Testa kontrollflöde genom att använda debugger i consolen
