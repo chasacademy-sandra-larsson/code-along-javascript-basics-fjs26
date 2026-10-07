@@ -62,6 +62,7 @@ const splicedFruits = fruit.splice(0, 1); // tar bort och eller lägger till men
 console.log(splicedFruits);
 
 // Den viktigaste skillnaden: slice ändrar inte originalet, splice gör det.
+// SLICE är mycket vanligare då man inte vill ändra orginalet
 
 
 

@@ -31,6 +31,8 @@ console.log("Gameover")
 
 // forEach-loop - förenkling av for. Den itererar varje värde i en array
 
+// ITERERANDE ARRAY METODER - lite överkurs nu, men...
+
 myArray.forEach(function(item, index) {
   console.log("foreach", item, index);
 })
